@@ -1,0 +1,62 @@
+C:\Users\Bronislav\source\repos\theSchool\theSchool\bin\Debug\theSchool.exe.config
+C:\Users\Bronislav\source\repos\theSchool\theSchool\bin\Debug\theSchool.exe
+C:\Users\Bronislav\source\repos\theSchool\theSchool\bin\Debug\theSchool.pdb
+C:\Users\Bronislav\source\repos\theSchool\theSchool\obj\Debug\theSchool.csprojAssemblyReference.cache
+C:\Users\Bronislav\source\repos\theSchool\theSchool\obj\Debug\theSchool.Properties.Resources.resources
+C:\Users\Bronislav\source\repos\theSchool\theSchool\obj\Debug\theSchool.csproj.GenerateResource.cache
+C:\Users\Bronislav\source\repos\theSchool\theSchool\obj\Debug\theSchool.csproj.CoreCompileInputs.cache
+C:\Users\Bronislav\source\repos\theSchool\theSchool\obj\Debug\theSchool.exe
+C:\Users\Bronislav\source\repos\theSchool\theSchool\obj\Debug\theSchool.pdb
+C:\Users\Bronislav\source\repos\theSchool\theSchool\obj\Debug\theSchool.ServiceList.resources
+C:\Users\Bronislav\source\repos\theSchool\theSchool\obj\Debug\theSchool.addEditService.resources
+C:\Users\Bronislav\source\repos\theSchool\theSchool\obj\Debug\theSchool.ServiceImages.resources
+C:\Users\Bronislav\source\repos\theSchool\theSchool\obj\Debug\theSchool.ClientService.resources
+C:\Users\Bronislav\source\repos\theSchool\theSchool\obj\Debug\theSchool.NearSigns.resources
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\bin\Debug\theSchool.exe.config
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\bin\Debug\theSchool.exe
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\bin\Debug\theSchool.pdb
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.csprojAssemblyReference.cache
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.addEditService.resources
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.ClientService.resources
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.NearSigns.resources
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.ServiceImages.resources
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.ServiceList.resources
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.Properties.Resources.resources
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.csproj.GenerateResource.cache
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.exe
+C:\Users\usersql\Downloads\PP.02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.pdb
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\bin\Debug\theSchool.exe.config
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\bin\Debug\theSchool.exe
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\bin\Debug\theSchool.pdb
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.csprojAssemblyReference.cache
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.addEditService.resources
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.ClientService.resources
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.NearSigns.resources
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.ServiceImages.resources
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.ServiceList.resources
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.Properties.Resources.resources
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.csproj.GenerateResource.cache
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.exe
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.pdb
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\bin\Debug\theSchool.exe.manifest
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\bin\Debug\theSchool.application
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.exe.manifest
+C:\Users\usersql\Downloads\PP02_TheSchool\theSchool\theSchool\obj\Debug\theSchool.application
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\bin\Debug\theSchool.exe.config
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\bin\Debug\theSchool.exe.manifest
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\bin\Debug\theSchool.application
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\bin\Debug\theSchool.exe
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\bin\Debug\theSchool.pdb
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.csprojAssemblyReference.cache
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.addEditService.resources
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.ClientService.resources
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.NearSigns.resources
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.ServiceImages.resources
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.ServiceList.resources
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.Properties.Resources.resources
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.csproj.GenerateResource.cache
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.csproj.CoreCompileInputs.cache
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.exe.manifest
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.application
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.exe
+C:\SAVE\DZ\Алегрова\задания ПП02_ИС17\задания ПП02_ИС17\theSchool\theSchool\theSchool\obj\Debug\theSchool.pdb

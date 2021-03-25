@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="theSchool.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="theSchool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="theSchool.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="theSchool.exe" size="58792">
+      <assemblyIdentity name="theSchool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>tv4AuS9eDvFO6rImLRDhrkXXsin6Tda4fW9a4kr6yCg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="IMG\arrow.png" size="6667">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>36+dmCL7AkaKOS6y4CkSYuOxIFyQfWEXMTaYHaRcw0g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="IMG\arrow2.png" size="7251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OyFKicjYLsxWVADmYd4tkg9eO8rqXkt/3nWqWSpiwPo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="theSchool.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\for company.jpg" size="47001">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yiuf0ypeoabnMjpI6/MYDmRseEKtzudKphGPVBFybnM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\online lessons.jpg" size="53734">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0Pop8h/ldhsF+4u4EEaBONS+CtEpl3JlmFBBflLPzps=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Английский язык.jpg" size="23406">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>thfA2hwPEstLXg4qkYF4U4Wss2PpvvJRHF5IZuxhOSs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Испанский язык.jpg" size="25952">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4vxfMgpqO/Rhqwsqafll+DGPqpSClXIr8NlAfoMOOyA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Итальянский язык.jpg" size="13832">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PElk95SymbeeDXki43dZUFlN3zI8M1HfTq0NM17d9VI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\киноклуб.jpg" size="28561">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kdOCFXXXC+9R6a1pbm9Bl1vt/PilSLWm90TMnm9AUQA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Китайский язык.jpg" size="45476">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LTOJNwDpm/+O/MHSNx1uSXKaPya801mY6L/8dUAhh+4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Немецкий язык.png" size="31498">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0puiPjTXHw5WuYWn0/IgYVSBRBvsBBqvr5JZn8rD0rw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Подготовка к экзамену ACT.png" size="51703">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gbfV7UqBeGHRhkddsJ3vmSPiH4+fIzYGVuCU5YcXK1A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Подготовка к экзамену GMAT.png" size="57055">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>c139vAinY4rjmVV9oo+yx3ckM/RkCfn5i3NynAYrvV4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Подготовка к экзамену GRE.jpeg" size="28726">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FhR4hIyv/b4GEY4Dve7LjQzGpiBvORzAMX9ofave+A0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Подготовка к экзамену IELTS.jpg" size="77193">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>uCe4InwebirJU/dkjXVyL3kxB2vBWCKH6Hbr3dzrm2E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Подготовка к экзамену SAT.png" size="65821">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>l/EQ3zDwBGWq9ugx48vzOC8ncAE00jBNkv6Blul0w2U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Подготовка к экзамену TOEFL.jpg" size="33972">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>jvyASBdqc34eiNJVhwBpU2cbE5Ub7NLP+7Io3zVD3Og=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Португальский язык.jpg" size="44446">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5qk3FcN9hMt7tBhaEQ5KZrHVaiHJ3QTgqSUwNCWVGfU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Французский язык.jpg" size="31840">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>71nXr91UB+TRuXR1Ia6JBBP55sx8Im5/3+bB4rhss00=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Услуги школы\Японский язык.jpg" size="5537">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>52pK0vRAqbWeKAuaB9ygOPZ/LI24Cn8BeZ98O6wGF4U=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>
